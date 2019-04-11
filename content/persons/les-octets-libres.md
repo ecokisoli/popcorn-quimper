@@ -70,4 +70,4 @@ technologies:
 
 Développeurs confirmés, ex-freelancers, nous avons collaboré ensemble pendant 4 ans avant de nous associer en SCOP.
 
-Nous concentrons notre expertise sur le développement de solutions logicielles à haute valeur ajoutée pour nos client, essentiellement autour de système de gestion de données, d'interconnexion entre système et d'API. Et quand une demande sort de notre coeur de métier, nous aimons collaborer avec d'autres freelancers.
+Nous concentrons notre expertise sur le développement de solutions logicielles à haute valeur ajoutée pour nos client, essentiellement autour de systèmes de gestion de données, d'interconnexion entre systèmes et d'API. Et quand une demande sort de notre coeur de métier, nous aimons collaborer avec d'autres freelancers.
